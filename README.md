@@ -2,7 +2,7 @@
 Supplementary material to the research thesis "The forensic statistical analysis of incident series" by Patricia de Bruin.
 
 In the folder ANOVA, one can find the Analysis of Variance of the simulation study done in Appendix B. 
-In addition, one can find the corresponding simulated data and the parameters estimates of the three estimation methods described in Chapter 11.
+In addition, one can find the corresponding simulated data and parameters estimates of rho and mu using the three estimation methods described in Chapter 11.
 
 In the folder Arson, one can find the Python codes how to obtain Figures C.1 and C.3 that are referred to in Chapters 7 an 10. 
 
